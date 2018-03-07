@@ -2,3 +2,8 @@
 Pulaao
 Cake 
 Biscuits
+
+Pulaao is made up of rice.
+cake is made up of maida.
+Biscuits is made up of maida.
+
